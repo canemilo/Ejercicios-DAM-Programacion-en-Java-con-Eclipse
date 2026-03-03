@@ -6,9 +6,6 @@ Estudiante de DAM · Java (POO) · MySQL · Git/Docker · Automatización (Playw
 - SQL/MySQL con ejercicios tipo examen (JOINs, agregaciones, procedimientos)
 - Automatización web cuando necesito probar flujos o extraer datos
 
-## Lenguajes
-- Java, SQL (MySQL), Html, Css, JavaScript
-
 ## Tecnologías y herramientas
 
 ### Lenguajes
